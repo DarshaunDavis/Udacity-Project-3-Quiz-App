@@ -1,0 +1,61 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">NYC Quiz</string>
+    <!-- XML Strings -->
+    <!-- Field and Hint Strings -->
+    <string name="name_field">Name</string>
+    <string name="question4_hint">Subway Line</string>
+    <!-- Header Strings -->
+    <string name="question1_header">Question 1</string>
+    <string name="question2_header">Question 2</string>
+    <string name="question3_header">Question 3</string>
+    <string name="question4_header">Question 4</string>
+    <string name="question5_header">Question 5</string>
+
+    <!-- Question Strings -->
+    <string name="question1">Which of the five boroughs is the ONLY one connected to land?</string>
+    <string name="question2">Which park is the largest in New York City?</string>
+    <string name="question3">Which of the five boroughs have a zoo?</string>
+    <string name="question4">Which Subway line is the only one that Does Not enter Manhattan?</string>
+    <string name="question5">Which airport(s) service New York City?</string>
+
+    <!-- Question 1 Strings -->
+    <string name="question1_answer1">Manhattan</string>
+    <string name="question1_answer2">Queens</string>
+    <string name="question1_answer3">The Bronx</string>
+    <string name="question1_answer4">Brooklyn</string>
+    <string name="question1_answer5">Staten Island</string>
+
+    <!-- Question 2 Strings -->
+    <string name="question2_answer1">Prospect Park</string>
+    <string name="question2_answer2">Pelham Bay Park</string>
+    <string name="question2_answer3">Central Park</string>
+    <string name="question2_answer4">Battery Park</string>
+
+    <!-- Question 3 Strings -->
+    <string name="question3_answer1">Manhattan</string>
+    <string name="question3_answer2">Queens</string>
+    <string name="question3_answer3">The Bronx</string>
+    <string name="question3_answer4">Brooklyn</string>
+    <string name="question3_answer5">Staten Island</string>
+    <string name="question3_answer6">None of the above</string>
+    <string name="question3_answer7">All of the above</string>
+
+    <!-- Question 5 Strings -->
+    <string name="lga">LaGuardia</string>
+    <string name="jfk">John F Kennedy</string>
+    <string name="ewr">Newark</string>
+    <string name="ord">O\'Hare</string>
+    <string name="doh">Hamad</string>
+
+    <!-- Submit button String -->
+    <string name="submit_button">Submit</string>
+
+    <!-- Java Strings -->
+    <!-- Strings for question answers -->
+    <string name="answer1">The Bronx is the only borough connected to land.</string>
+    <string name="answer2">Pelham Bay Park is the largest park in all of New York City.</string>
+    <string name="answer3">Each of the boroughs have its own zoo.</string>
+    <string name="answer4">The G never enters Manhattan.</string>
+    <string name="answer5">LaGuardia, John F Kennedy and Newark service New York City.</string>>
+
+</resources>
